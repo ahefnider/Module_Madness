@@ -1,0 +1,11 @@
+{
+  "name": "module_madness",
+  "version": "1.0.0",
+  "description": "3 modules with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Hefnider",
+  "license": "ISC"
+}
